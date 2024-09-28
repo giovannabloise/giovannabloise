@@ -1,7 +1,8 @@
-👩‍🔬 Biomedical Scientist | Bioinformatician | Data Scientist 🧬
+## 👩‍🔬 Biomedical Scientist | Bioinformatician | Data Scientist 🧬
 
 Hello, visitor! 👋🏻
-I am a biomedical scientist with over five years of experience in bioinformatics, passionate about science and technology. I work with the analysis of complex biological data, aiming to translate genetic and molecular information into innovative health solutions.
+
+I'm a biomedical scientist with over five years of experience in bioinformatics, passionate about science and technology. I work with the analysis of complex biological data, aiming to translate genetic and molecular information into innovative health solutions.
 
 🔬 Areas of interest:
 
