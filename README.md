@@ -7,6 +7,6 @@ I'm a biomedical scientist with over five years of experience in bioinformatics,
 🔬 Areas of interest:
 
 - Omics data analysis (genomics, transcriptomics, proteomics)
-- Computational modeling and machine learning applied to biomedicine
+- Computational modeling and machine learning applied to biological problems
 - Translational research and personalized medicine
 - Always eager to learn something new and share knowledge!
